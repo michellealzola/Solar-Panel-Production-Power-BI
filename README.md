@@ -70,5 +70,5 @@ Accurate monitoring of solar panel production leads to:
 ## 📬 Get in Touch
 
 Created by **Michelle Alzola**  
-Visit [my blog][https://python.michellealzoladesign.com](https://python.michellealzoladesign.com/maximizing-solar-panel-efficiency-power-bi-dashboard-for-production-monitoring/ for more tutorials and projects.
+Visit https://python.michellealzoladesign.com/maximizing-solar-panel-efficiency-power-bi-dashboard-for-production-monitoring/ for more tutorials and projects.
 
