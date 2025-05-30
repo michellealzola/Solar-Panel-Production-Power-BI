@@ -1,6 +1,6 @@
 # ☀️ Solar Panel Production Dashboard – Power BI Project
 
-![Solar Panel Illustration](A_flat-style_digital_illustration_depicts_a_solar_.png)
+![Screenshot 2025-05-30 111037](https://github.com/user-attachments/assets/71c089a8-e3c6-4c89-9413-7d91cb58fa47)
 
 ## 📊 Project Overview
 
